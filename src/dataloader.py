@@ -6,4 +6,6 @@ data = data.drop(columns=["Unnamed: 0"])
 data=data.rename(columns={"price" : "close"})
 data=data.sort_values(by=["date"])
 print(data.head())
+print("data.head")
+
 
