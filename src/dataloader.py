@@ -6,6 +6,7 @@ data=pd.read_csv("C:\\Users\\SOUMODIP\\Downloads\\archive (1)\\TCS Historical Da
 data = data.drop(columns=["Unnamed: 0"])
 data=data.rename(columns={"price" : "close"})
 data=data.sort_values(by=["date"])
+print(data.describe())
 
 
 
