@@ -1,6 +1,2 @@
 print("hallo")
 print("stock price")
-print("tcs prices")
-print("not doing enough")
-print("hallo woerld")
-print("gallo")
