@@ -1,3 +1,3 @@
-print("hallo")
-print("stock price")
-
+print("Hello, World!")
+print("Stock Price")
+print("Stock Price Predictor")
